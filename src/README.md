@@ -14,7 +14,7 @@ The gateway still imports a few modules from `wearable/gateway/legacy_kiki/`, a 
 
 ## Analytics
 
-`health-analytics/` is included with the author's permission from AditiS721/SIH-Abnormalies-Software, branch `DevAniket`.
+`health-analytics/` is included with the author's permission from AditiS721/SIH-The KikiCrew-Software, branch `DevAniket`.
 
 Its `src/` folder contains the rule-based pipeline: baselines, anomalies, daily summaries, trends and risk scores. It currently runs on generated data. `vitality-app/` is the Next.js dashboard with its own SQLite database; connecting these to live wearable telemetry is still pending.
 

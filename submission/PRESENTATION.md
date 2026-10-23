@@ -1,9 +1,9 @@
 # 📊 Project Presentation
 
-**SIH 2026 Idea Submission · PS ID 26181 · Team Abnormalies, NSUT**
+**SIH 2026 Idea Submission · PS ID 26181 · Team The KikiCrew, NSUT**
 
 <p align="center">
-  <a href="./SIH26181_Team_Abnormalies_Presentation.pdf">
+  <a href="./SIH26181_Team_The KikiCrew_Presentation.pdf">
     <img src="https://img.shields.io/badge/📄_Open_Presentation_(PDF,_in_repo)-2C5AA0?style=for-the-badge" alt="Open presentation PDF" />
   </a>
   <a href="https://drive.google.com/file/d/19Gz7P0E8064CH7wUCHbpV1ZqjmQZaEzY/view" target="_blank">
@@ -15,8 +15,8 @@
 
 | Source | Link |
 |---|---|
-| In this repository | [`submission/SIH26181_Team_Abnormalies_Presentation.pdf`](./SIH26181_Team_Abnormalies_Presentation.pdf) (8.6 MB, 6 slides) |
-| Google Drive (viewer link) | [SIH26181 Team Abnormalies](https://drive.google.com/file/d/19Gz7P0E8064CH7wUCHbpV1ZqjmQZaEzY/view) |
+| In this repository | [`submission/SIH26181_Team_The KikiCrew_Presentation.pdf`](./SIH26181_Team_The KikiCrew_Presentation.pdf) (8.6 MB, 6 slides) |
+| Google Drive (viewer link) | [SIH26181 Team The KikiCrew](https://drive.google.com/file/d/19Gz7P0E8064CH7wUCHbpV1ZqjmQZaEzY/view) |
 
 ## Related submission material
 

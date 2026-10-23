@@ -76,7 +76,7 @@ clip_t = 1.4;
 clip_rim_overlap = 1.0;        // catches OUTER case rim; check it misses display glass
 case_contact_interference = 0.18; // small spring-pad preload to reduce case rotation
 
-side_text_left = "the abnormalies";
+side_text_left = "the The KikiCrew";
 side_text_right = "Team A3SCV";
 letter_font = "Orbitron:style=Bold";
 letter_size = 3.1;
