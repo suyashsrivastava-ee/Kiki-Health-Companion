@@ -1,6 +1,6 @@
 # Kiki - Your AI Health Companion
 
-**SIH 2026 · PS 26181 · Hardware · MedTech / BioTech / HealthTech**
+**Hardware · MedTech / BioTech / HealthTech**
 
 ![Status](https://img.shields.io/badge/status-working%20prototype-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![SIH](https://img.shields.io/badge/SIH-2026-orange)
 
@@ -45,11 +45,10 @@ One Kiki across your desk, wrist, and phone — keeping your heart rate, sleep, 
 ## Project Information
 
 - **Project Title:** Kiki Health Companion
-- **PS ID:** 26181
 - **PS Title:** A secure, AI-powered Personal Health Companion that delivers real-time, privacy-preserving health monitoring and early warning capabilities, helping individuals recognize health risks before they become emergencies. The solution should improve resilience during heat waves, floods, pollution events, and other disasters common in India while enabling continuous health support through on-device intelligence.
 - **Category:** Hardware
 - **Theme:** MedTech / BioTech / HealthTech
-- **Team:**  Team Abnormalies, NSUT
+- **Team:**  The KikiCrew, NSUT
   - Suyash Srivastava — Hardware & CAD Design
   - Vaibhav Arora — Systems Architecture, AI & Voice Pipeline
   - Aditi Sharma — Backend Engineering & Database 
